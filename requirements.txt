@@ -1,0 +1,15 @@
+Flask==2.3.3
+qrcode[pil]==7.4.2
+Pillow==9.4.0
+Flask==2.3.3
+qrcode[pil]==7.4.2
+Pillow==9.4.0
+gunicorn==20.1.0
+gunicorn
+requirements.txt
+Flask
+qrcode
+pil
+Pillow
+gunicorn
+-r requirements.txt
